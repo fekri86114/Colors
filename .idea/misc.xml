@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/background_enfp.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_enfj.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_entj.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_entp.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_esfj.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_esfp.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_estj.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/bg_estp.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/color.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/color_enfp.xml" value="0.25" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/enfp.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Klap.ir/AndroidStudioProjects/My_Project/Example/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23981481481481481" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
